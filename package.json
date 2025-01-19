@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "vercel": "^39.3.0"
+    "@supabase/supabase-js": "^2.47.16"
   }
 }
